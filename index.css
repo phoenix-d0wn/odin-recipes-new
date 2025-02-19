@@ -1,15 +1,24 @@
+body {
+    background-color: #e2dcdc;
+}
+
 h1{
-    font-family:"Ubuntu", monospace;
+    font-family:"Times New Roman", monospace;
     text-align:center
 }
 
 .main{
-    background: #fff;
     font-size:22px;
     font-family:"Times New Georgia", sans-serif;
     text-align:center;
 }
 
 .main .odd{
-    background: #6df8f8;
+    background-color: #68626250;
+;
+}
+
+#recipe1{
+    border-radius:50%;
+    width:20%;height:auto;
 }
