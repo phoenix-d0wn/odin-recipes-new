@@ -1,0 +1,15 @@
+h1{
+    font-family:"Ubuntu", monospace;
+    text-align:center
+}
+
+.main{
+    background: #fff;
+    font-size:22px;
+    font-family:"Times New Georgia", sans-serif;
+    text-align:center;
+}
+
+.main .odd{
+    background: #6df8f8;
+}
